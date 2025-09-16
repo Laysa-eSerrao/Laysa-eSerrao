@@ -14,6 +14,8 @@ Atualmente explorando Python, C# e Java, com foco em construir soluções que un
 
 🛠️ Tecnologias e Ferramentas
 
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Lay-java" height="30" width="100" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="Lay_Python" height="30" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -21,7 +23,10 @@ Atualmente explorando Python, C# e Java, com foco em construir soluções que un
 </div>
 
 
+
+
 🌐 Conecte-se comigo
+
 
 <div> 
   <a href="https://instagram.com/lay_sro_" target="_blank">
