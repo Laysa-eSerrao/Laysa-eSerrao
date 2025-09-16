@@ -1,8 +1,8 @@
     def apresentacao():
-    nome = "Laysa Serrão"
-    curso = "Engenharia de Software"
-    linguagens = ["Python", "C#", "Java"]
-
+        nome = "Laysa Serrão"
+        curso = "Engenharia de Software"
+        linguagens = ["Python", "C#", "Java"]
+   
     print(f"Olá, meu nome é {nome}.")
     print(f"Sou estudante de {curso}.")
     print("Atualmente programo nas linguagens:")
