@@ -1,4 +1,4 @@
-👩‍💻 Laysa Serrão
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:ff66cc,50:9966ff,100:66ccff&height=180&section=header&text=Laysa%20Serrão&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 ✨ Estudante de Engenharia de Software apaixonada por tecnologia, desenvolvimento de sistemas e boas práticas de programação.
 
@@ -47,3 +47,11 @@ Atualmente explorando Python, C# e Java, com foco em construir soluções que un
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
 </div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350px">
+</p>
+
+<p align="center">
+  <img src="pixel_art_matrix_optimized.gif" width="300px">
+</p>
