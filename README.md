@@ -5,7 +5,6 @@
 Atualmente explorando Python, C# e Java, com foco em construir soluções que unam lógica, criatividade e eficiência.
 
 
-🚀 Sobre mim
 	•	🎓 Estudante de Engenharia de Software
 	•	💡 Interesse em desenvolvimento backend, análise de dados e boas práticas de software
 	•	🌱 Sempre aprendendo novas linguagens, frameworks e metodologias ágeis
