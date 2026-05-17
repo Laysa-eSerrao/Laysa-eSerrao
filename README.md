@@ -29,12 +29,10 @@ Atualmente explorando Python, C# e Java, com foco em construir soluções que un
  
 ## 📊 Estatísticas
  
-<div align="center">
 ![Laysa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Laysa-eSerrao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1A51F4&icon_color=6ccfff&text_color=ffffff)
  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Laysa-eSerrao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1A51F4&text_color=ffffff)
  
-</div>
 ---
  
 ## 🌐 Vamos nos conectar?
@@ -45,10 +43,6 @@ Atualmente explorando Python, C# e Java, com foco em construir soluções que un
  
 ---
  
-<div align="center">
- 
 *"A lógica te leva de A a B. A imaginação te leva a qualquer lugar."* — Albert Einstein
  
-</div>
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6ccfff,50:9966ff,100:1A51F4&height=100&section=footer)
- 
