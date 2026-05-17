@@ -27,17 +27,6 @@ Atualmente explorando Python, C# e Java, com foco em construir soluções que un
  
 ---
  
-## 📌 Projetos em Destaque
- 
-| Projeto | Descrição | Tecnologia |
-|---|---|---|
-| [🧠 Atividade-Perceptron](https://github.com/Laysa-eSerrao/Atividade-Perceptron) | Implementação e análise de um Perceptron simples — conceito, funcionamento e aplicações práticas em IA | Python |
-| [🤖 Perceptron-Aspirador](https://github.com/Laysa-eSerrao/Perceptron-aspirador) | Simulação de agente inteligente usando rede neural Perceptron | Jupyter Notebook |
-| [🏋️ Treinando-Perceptron](https://github.com/Laysa-eSerrao/Treinando-Perceptron) | Exercícios de treinamento de modelos Perceptron com ajuste de pesos | Python |
-| [📚 Java-Biblioteca](https://github.com/Laysa-eSerrao/Java-biblioteca) | Sistema de gerenciamento de biblioteca desenvolvido em Java | Java |
- 
----
- 
 ## 📊 Estatísticas
  
 <div align="center">
@@ -57,6 +46,7 @@ Atualmente explorando Python, C# e Java, com foco em construir soluções que un
 ---
  
 <div align="center">
+ 
 *"A lógica te leva de A a B. A imaginação te leva a qualquer lugar."* — Albert Einstein
  
 </div>
